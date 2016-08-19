@@ -1,0 +1,6 @@
+hello.txt
+total 16
+drwxr-xr-x 3 jack jack 4096 Jul 24 15:56 .
+drwxr-xr-x 3 jack jack 4096 Jul 24 15:54 ..
+drwxr-xr-x 7 jack jack 4096 Jul 24 15:56 .git
+-rw-r--r-- 1 jack jack   10 Jul 24 15:59 hello.txt
